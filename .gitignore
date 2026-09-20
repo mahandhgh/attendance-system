@@ -30,6 +30,7 @@ output/
 data/*.csv
 
 tests
+test_*.py
 
 *.zip
 *.rar
